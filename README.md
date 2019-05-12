@@ -14,4 +14,4 @@ Want the C# version? Take a look at [HF-Sharp](https://github.com/ooojustin/HF-S
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
